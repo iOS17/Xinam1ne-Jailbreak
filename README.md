@@ -35,7 +35,7 @@ The most famous and trusted method of installing Xinamine is using a Xinamine In
 
 **To install the Xinamine installer, follow the simple instructions below.**
 
-- Step 01: [Download XinaM1ne Installer](https://xina15.com/xinam1ne/) and Install it through iPhone Settings app. (Please use iPhone Safari Browser) (Open iPhone Settings app -> General -> VPN & Device Management ->Tap on XinaMine Installer -> Install -> Enter Device Passcode(If Required) -> Install -> Install -> Done)
+- Step 01: [Download XinaM1ne Installer](https://xina15.com/xinam1ne/Xinamineinstaller.mobileconfig) and Install it through iPhone Settings app. (Please use iPhone Safari Browser) (Open iPhone Settings app -> General -> VPN & Device Management ->Tap on XinaMine Installer -> Install -> Enter Device Passcode(If Required) -> Install -> Install -> Done)
 
 ![Xinam1ne Jailbreak Installer](https://github.com/iOS17/Xinam1ne-Jailbreak/assets/135683347/4f68f483-dfe8-4638-acbb-91dad7bee92f)
 
