@@ -4,6 +4,16 @@ The Xinam1ne jailbreak tool is not just a product; it's a testament to the colla
 
 Rest assured, the Xinam1ne jailbreak tool is designed to ensure compatibility with your favorite rootless tweaks. Our research data confirms that regular rootless tweaks still work with this jailbreak tool because it uses libhooker for tweak injection, giving you the freedom to customize your device as you please.
 
+############## READ MORE ###############
+
+| [unc0ver Jailbreak for iOS 17 - iOS 17.4.1?](https://github.com/iOS17/unc0ver-jailbreak) |
+
+| [Download: Esign For iOS 17.4 Released](https://esigncert.zeejb.com/)  |
+
+| [ How to install Esign iOS for iOS 17.4.1](https://github.com/iOS17/Esign/) |
+
+#############################
+
 The Xinam1ne jailbreak tool, a unique amalgamation of Xina15 and Dopamine, stands out for its user-friendly design and compatibility with arm64e devices (A12+), iPhone 14, and below. What sets it apart from other tools like palera1n & Checkra1n is its ability to be installed without needing a PC, making it a convenient choice for iOS users.
 
 Are you ready to unlock the full potential of your iOS device with the Xinam1ne Jailbreak? Start by downloading the IPA file from its official website, xina. crown.xyz, once you've downloaded the file, the next step is to sideload it.
