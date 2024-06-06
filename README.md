@@ -1,8 +1,18 @@
-# Xinam1ne The advanced semi-untethered permasigned Jailbreak for iOS 15 - iOS 16.5.1
+# Xinam1ne Jailbreak The advanced semi-untethered per assigned Jailbreak for iOS 15 - iOS 16.5.1
 
-The Xinam1ne jailbreak tool is not just a product; it's a testament to the collaborative spirit of @sudo1469 and @SingleKeycap. They combined their expertise and the features of the famous Dopamine and Xina Jailbreak tools to create this advanced solution, all to benefit the iOS jailbreaking community.
+Xinam1ne jailbreak tool is not just a product; it's a testament to the collaborative spirit of @sudo1469 and @SingleKeycap. They combined their expertise and the features of the famous Dopamine and Xina Jailbreak tools to create this advanced solution, all to benefit the iOS jailbreaking community.
 
 Rest assured, the Xinam1ne jailbreak tool is designed to ensure compatibility with your favorite rootless tweaks. Our research data confirms that regular rootless tweaks still work with this jailbreak tool because it uses libhooker for tweak injection, giving you the freedom to customize your device as you please.
+
+
+The Xinam1ne jailbreak tool, a unique amalgamation of Xina15 and Dopamine, stands out for its user-friendly design and compatibility with arm64e devices (A12+), iPhone 14, and below. What sets it apart from other tools like palera1n & Checkra1n is its ability to be installed without needing a PC, making it a convenient choice for iOS users.
+
+Are you ready to unlock the full potential of your iOS device with the Xinam1ne Jailbreak? Start by downloading the IPA file from its official website, xina. crown.xyz, once you've downloaded the file, the next step is to sideload it.
+
+- [Download Xinamine Jailbreak Latest - link 1](https://xina15.com/xinam1ne/)
+- [Download Xinamine Jailbreak Latest - link 2](https://ipa.zeejb.com)
+- [Download Xinamine Jailbreak Source Codes](https://github.com/CyPwn/Xinam1ne)
+
 
 ############## READ MORE ###############
 
@@ -13,14 +23,6 @@ Rest assured, the Xinam1ne jailbreak tool is designed to ensure compatibility wi
 | [ How to install Esign iOS for iOS 17.4.1](https://github.com/iOS17/Esign/) |
 
 #############################
-
-The Xinam1ne jailbreak tool, a unique amalgamation of Xina15 and Dopamine, stands out for its user-friendly design and compatibility with arm64e devices (A12+), iPhone 14, and below. What sets it apart from other tools like palera1n & Checkra1n is its ability to be installed without needing a PC, making it a convenient choice for iOS users.
-
-Are you ready to unlock the full potential of your iOS device with the Xinam1ne Jailbreak? Start by downloading the IPA file from its official website, xina. crown.xyz, once you've downloaded the file, the next step is to sideload it.
-
-- [Download Xinamine Jailbreak Latest - link 1](https://xina15.com/xinam1ne/)
-- [Download Xinamine Jailbreak Latest - link 2](https://ipa.zeejb.com)
-- [Download Xinamine Jailbreak Source Codes](https://github.com/CyPwn/Xinam1ne)
 
 ## How to install Xinamine Jailbreak?
 
@@ -45,3 +47,38 @@ The most famous and trusted method of installing Xinamine is using a Xinamine In
 - Step 04: You will be prompted to install the Free version of the Esign app. (We recommend choosing the premium version to avoid revocation.)
 - Step 05: Open Xinam1ne Jailbreak and tap on the Jailbreak button.
 - Step 06: Sileo, Zebra package manager will display on your device home screen after successfully jailbreaking.
+
+## Xinam1ne Supported Devices:
+
+- iPhone SE (3rd Generation)
+- iPhone SE (2nd Generation)
+- iPhone 13
+- iPhone 13 Mini
+- iPhone 13 Pro
+- iPhone 13 Pro Max
+- iPhone 12
+- iPhone 12 Mini
+- iPhone 12 Pro
+- iPhone 12 Pro Max
+- iPhone 11
+- iPhone 11 Pro
+- iPhone 11 Pro Max
+- iPhone XS
+- iPhone XS Max
+- iPhone XR
+
+- **If your device is on this list and you have iOS 15.0 - 16.5 / 16.5.1, you should be able to use the Xinam1ne jailbreak.**
+
+## How to install this Xinam1ne using TrollStore?
+
+To install xinam1ne, use the TrollStore app. First, ensure that your device is compatible with the TrollStore. 
+If your device is also compatible with the Trollstore, you must first install the Trollstore tool on your iDevice. 
+After completing the installation and configuration of the TrollStore on your iDevice, please follow the instructions below. 
+
+Read More: [How to install TrollStore](https://github.com/iOS17/TrollStore)
+
+- Step 1: Open the Xinam1ne Installer software.
+- Step 2: Tap the install via the TrollStore button.
+- Step 3: The Xinamine Jailbreak app will be installed on your device. 
+- Step 4: Open the Xinamine app and tap on the Jailbreak button.
+
